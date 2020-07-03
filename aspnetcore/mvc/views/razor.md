@@ -5,7 +5,7 @@ description: Learn about Razor markup syntax for embedding server-based code int
 ms.author: riande
 ms.date: 02/12/2020
 no-loc: [Blazor, "Blazor Server", "Blazor WebAssembly", "Identity", "Let's Encrypt", Razor, SignalR]
-uid: mvc/views/razor
+uid: mvc/views/razorsa
 ---
 # Razor syntax reference for ASP.NET Core
 
